@@ -1,3 +1,3 @@
 # Today I Learnd
 ---
-- [210112 - TIL(Today I learned)-START](./TIL(Today I learned)-START.markdown)
+- [210112 - TIL(Today I learned)-START](./210112-til(today-i-learned)-START.md)
