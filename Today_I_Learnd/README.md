@@ -12,3 +12,4 @@
 - [210122 - TIL](https://codingppushu.github.io/2021/01/22/TIL-210122/)
 - [210123 - TIL](https://codingppushu.github.io/2021/01/23/TIL-210123/)
 - [210125 - TIL](https://codingppushu.github.io/2021/01/25/TIL-210125/)
+- [210126 - TIL](https://codingppushu.github.io/2021/01/26/TIL-210126/)
