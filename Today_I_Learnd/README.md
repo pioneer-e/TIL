@@ -72,6 +72,7 @@
 - [210502 - TIL](https://codingppushu.github.io/2021/05/02/TIL-210502/)
 - [210503 - TIL](https://codingppushu.github.io/2021/05/03/TIL-210503/)
 - [210504 - TIL](https://codingppushu.github.io/2021/05/04/TIL-210504/)
+- [210506 - TIL](https://codingppushu.github.io/2021/05/06/TIL-210506/)
 
  
 
