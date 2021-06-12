@@ -98,6 +98,8 @@
 - [210608 - TIL](https://codingppushu.github.io/2021/06/08/TIL-210608/)
 - [210609 - TIL](https://codingppushu.github.io/2021/06/09/TIL-210609/)
 - [210610 - TIL](https://codingppushu.github.io/2021/06/10/TIL-210610/)
+- [210612 - TIL](https://codingppushu.github.io/2021/06/12/TIL-210612/)
+
 
  
 
