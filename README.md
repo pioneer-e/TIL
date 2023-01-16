@@ -9,4 +9,7 @@
 ---
 ## dev story
 
-- [Blog](https://codingppushu.github.io/)
+~~- [Blog](https://codingppushu.github.io/)~~
+
+## 2023 dev story
+- [NEW Blog] https://pioneer-e.tistory.com/
